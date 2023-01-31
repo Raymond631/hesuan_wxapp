@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/user/user",
-    "pages/manager/manager"
+    "pages/manager/manager",
+    "pages/SelfCenter/SelfCenter"
   ],
   "permission": {
     "scope.userLocation": {
@@ -28,6 +29,10 @@
       {
         "pagePath": "pages/manager/manager",
         "text": "发布预约"
+      },
+      {
+        "pagePath": "pages/SelfCenter/SelfCenter",
+        "text": "个人中心"
       }
     ]
   }
